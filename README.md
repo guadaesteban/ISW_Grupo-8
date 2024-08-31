@@ -25,7 +25,7 @@ Herramientas de SCM
 
 **Curso:** 4k2
 
-**Fecha de entrega:** 27/09/2024
+**Fecha de entrega:** 03/10/2024
 
 ## DOCUMENTO DE GESTIÓN DE CONFIGURACIÓN
 
