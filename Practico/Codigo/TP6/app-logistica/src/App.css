@@ -1,0 +1,53 @@
+body {
+  background-color: #CAF0F8; /* Fondo suave */
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #FFFFFF; /* Fondo del formulario */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #03045E; /* Título en azul oscuro */
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #0077B6; /* Etiquetas en azul medio */
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #90E0EF; /* Bordes en azul claro */
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input[type="date"] {
+  background-color: #00B4D8; /* Color de fondo para el campo de fecha */
+  color: #FFFFFF; /* Texto en blanco para el campo de fecha */
+}
+
+button {
+  background-color: #0077B6; /* Botón en azul medio */
+  color: #FFFFFF; /* Texto en blanco en el botón */
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #00B4D8; /* Color de fondo en hover */
+}
