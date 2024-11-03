@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\hooks\\useSendEmail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-logistica\\src\\hooks\\useSendEmail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\PedidoForm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-logistica\\src\\components\\PedidoForm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\backend\\data\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\data\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\template\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-logistica\\src\\template\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\FileUploader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-logistica\\src\\components\\FileUploader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\DatePicker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-logistica\\src\\components\\DatePicker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\template\\index.js",
+              "RelativeDocumentMoniker": "app-logistica\\src\\template\\index.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\template\\index.js",
+              "RelativeToolTip": "app-logistica\\src\\template\\index.js",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T16:52:28.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "constants.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\backend\\data\\constants.js",
+              "RelativeDocumentMoniker": "backend\\data\\constants.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\backend\\data\\constants.js",
+              "RelativeToolTip": "backend\\data\\constants.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T15:30:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoForm.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\PedidoForm.js",
+              "RelativeDocumentMoniker": "app-logistica\\src\\components\\PedidoForm.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\PedidoForm.js",
+              "RelativeToolTip": "app-logistica\\src\\components\\PedidoForm.js",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T15:27:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploader.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\FileUploader.js",
+              "RelativeDocumentMoniker": "app-logistica\\src\\components\\FileUploader.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\FileUploader.js",
+              "RelativeToolTip": "app-logistica\\src\\components\\FileUploader.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T15:27:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatePicker.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\DatePicker.js",
+              "RelativeDocumentMoniker": "app-logistica\\src\\components\\DatePicker.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\components\\DatePicker.js",
+              "RelativeToolTip": "app-logistica\\src\\components\\DatePicker.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T15:27:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "useSendEmail.js",
+              "DocumentMoniker": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\hooks\\useSendEmail.js",
+              "RelativeDocumentMoniker": "app-logistica\\src\\hooks\\useSendEmail.js",
+              "ToolTip": "C:\\Users\\guada\\ISW_Grupo-8\\Practico\\Codigo\\TP6\\app-logistica\\src\\hooks\\useSendEmail.js",
+              "RelativeToolTip": "app-logistica\\src\\hooks\\useSendEmail.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T15:27:20.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
