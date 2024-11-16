@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app-logistica",
+    "\\app-logistica\\src",
+    "\\app-logistica\\src\\components",
+    "\\app-logistica\\src\\hooks",
+    "\\app-logistica\\src\\template",
+    "\\backend",
+    "\\backend\\data"
+  ],
+  "SelectedNode": "\\app-logistica\\src\\hooks\\useSendEmail.js",
+  "PreviewInSolutionExplorer": false
+}
